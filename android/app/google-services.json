@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855576067354",
+    "project_id": "banking-lessons-app",
+    "storage_bucket": "banking-lessons-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855576067354:android:158b97e162d40ff3a540a3",
+        "android_client_info": {
+          "package_name": "com.example.banking_lessons_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855576067354-8ikdgm4bm0e7j0gn1kar7t98nm0sv08j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFU9NQYvKaXmJrW5KON5w7qQR6iwVx0jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855576067354-8ikdgm4bm0e7j0gn1kar7t98nm0sv08j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
