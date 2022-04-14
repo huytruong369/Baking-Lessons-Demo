@@ -1,5 +1,6 @@
 import 'package:banking_lessons_app/contants.dart';
 import 'package:banking_lessons_app/signin_screen.dart';
+import 'package:banking_lessons_app/signup_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -45,6 +46,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/welcome_screen/': (context) => const WelcomeScreen(),
         '/signin_screen/': (context) => const SignInScreen(),
+        '/signup_screen/': (context) => const SignUpScreen(),
       },
     );
   }

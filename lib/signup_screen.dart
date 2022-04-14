@@ -1,8 +1,8 @@
 import 'package:banking_lessons_app/contants.dart';
 import 'package:flutter/material.dart';
 
-class SignInScreen extends StatelessWidget {
-  const SignInScreen({Key? key}) : super(key: key);
+class SignUpScreen extends StatelessWidget {
+  const SignUpScreen({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -44,7 +44,7 @@ class SignInScreen extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       Text(
-                        'SIGN IN',
+                        'SIGN UP',
                         style: Theme.of(context).textTheme.headline4?.copyWith(
                               color: Colors.white,
                             ),
@@ -52,9 +52,9 @@ class SignInScreen extends StatelessWidget {
                       GestureDetector(
                         onTap: () => Navigator.of(context)
                             .pushNamedAndRemoveUntil(
-                                '/signup_screen/', (route) => false),
+                                '/signin_screen/', (route) => false),
                         child: Text(
-                          'SIGN UP',
+                          'SIGN IN',
                           style: Theme.of(context).textTheme.button,
                         ),
                       ),

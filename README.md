@@ -18,3 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 ![UI](https://github.com/abuanwar072/Login-Screen---Flutter-UI/blob/master/Auth.png?raw=true)
 
 I'm trying to do flutter exercise.
+
+---------------------------After done this app!!
+
+Welcome Screen:
+
+![UI](https://github.com/huytruong369/Baking-Lessons-Demo/welcome_scree.png?raw=true)
