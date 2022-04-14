@@ -23,4 +23,14 @@ I'm trying to do flutter exercise.
 
 Welcome Screen:
 
-![UI](https://github.com/huytruong369/Baking-Lessons-Demo/welcome_scree.png?raw=true)
+![UI](https://github.com/huytruong369/Baking-Lessons-Demo/blob/main/welcome_screen.png?raw=true)
+
+Sign-In Screen:
+
+![UI](https://github.com/huytruong369/Baking-Lessons-Demo/blob/main/signin_screen.png?raw=true)
+
+
+Sign-Up Screen:
+
+![UI](https://github.com/huytruong369/Baking-Lessons-Demo/blob/main/signup_screen.png?raw=true)
+
